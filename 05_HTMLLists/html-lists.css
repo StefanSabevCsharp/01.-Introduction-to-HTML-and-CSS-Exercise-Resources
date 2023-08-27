@@ -1,0 +1,7 @@
+.other {
+    list-style-type: disc; /* Set the bullet style for the outer list items */
+  }
+  
+ul {
+    list-style-type: circle; /* Set the bullet style for the nested list items */
+  }
